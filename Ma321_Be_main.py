@@ -7,7 +7,8 @@ Example image files available (place them in the same folder as this script):
 - man_bw.jpg      # Grayscale
 - man_color.jpg    # Color
 
-@autor : Naacide
+
+@author: Nathan_AZO
 """
 
 import cv2
