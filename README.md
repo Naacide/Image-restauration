@@ -1,6 +1,7 @@
 # Image Restoration Project
 
 This project implements image restoration techniques for grayscale and color images, aiming to reconstruct missing or corrupted pixels.
+
 Read the file "Ma321_BE_2023.pdf" if you want to see the subject given to us, student, bringing us to the realisation of these codes (its in French sry)
 
 ## Features
