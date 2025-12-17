@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Ma321 BE: Image Restoration Library
-@autor : Naacide
+
+@author: Nathan_AZO
 """
 
 import numpy as np
