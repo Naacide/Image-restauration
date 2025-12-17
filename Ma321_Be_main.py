@@ -12,7 +12,7 @@ Example image files available (place them in the same folder as this script):
 """
 
 import cv2
-from Ma321_Be_lib_2 import restauration, restauration_couleur, masque
+from Ma321_Be_lib import restauration, restauration_couleur, masque
 
 # --- Load an example image ---
 F = cv2.imread('man_bw.jpg', cv2.IMREAD_UNCHANGED)  # change filename as needed
